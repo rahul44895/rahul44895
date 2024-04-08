@@ -1,4 +1,4 @@
-![MasterHead](rahul.jpg)
+![MasterHead](rahul.jpeg)
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
 <h3 align="center">🎓 I'm a third-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul44895&label=Profile%20views&color=0e75b6&style=flat" alt="rahul44895" /> </p>
