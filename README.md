@@ -1,6 +1,6 @@
 ![MasterHead](rahul.jpeg)
 <h1 align="center">Hi 👋, I'm Rahul Singh</h1>
-<h3 align="center">🎓 I'm a third-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
+<h3 align="center">🎓 I'm a fourth-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul44895&label=Profile%20views&color=0e75b6&style=flat" alt="rahul44895" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul44895" alt="rahul44895" /></a> </p>
